@@ -25,7 +25,7 @@ SECRET_KEY = '^&2h@2lb-!g=6me4-c!m2b-fnm*lvmdx3rqea98)bac4n8s4@@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hiimf.pythonanywhere.com']
 
 
 # Application definition
